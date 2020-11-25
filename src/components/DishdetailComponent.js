@@ -47,7 +47,7 @@ import { FadeTransform, Fade, Stagger } from 'react-animation-components';
                );
         else
         return(
-            <div>
+            <div>   
             </div>
         )       
     }
